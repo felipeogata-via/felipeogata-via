@@ -1,7 +1,7 @@
 ```markdown
 # 👋 Hello! Welcome to My Codeverse
 
-I'm [Seu Nome], a passionate **C# developer** with a knack for making business logic click – especially when it comes to **payments** and **refunds**. I’ve got the logic for cash flow running through my veins! 💸
+I'm Felipe, a passionate **C# developer** with a knack for making business logic click – especially when it comes to **payments** and **refunds**. I’ve got the logic for cash flow running through my veins! 💸
 
 ### 🌐 A Bit of Background
 
